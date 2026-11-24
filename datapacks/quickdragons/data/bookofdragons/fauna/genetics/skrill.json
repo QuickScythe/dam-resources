@@ -1,0 +1,1027 @@
+{
+  "attributes": {
+    "CON": { "floor": 30, "ceiling": 50 },
+    "ATH": { "floor": 70, "ceiling": 90 },
+    "AGI": { "floor": 30, "ceiling": 50 },
+    "PRW": { "floor": 65, "ceiling": 95 },
+    "POT": { "floor": 70, "ceiling": 90 },
+    "VIG": { "floor": 60, "ceiling": 80 }
+  },
+  "art_version": 1,
+  "mutation": {
+    "allele_chance": 0.02,
+    "palette_chance": 0.05,
+    "deviation_tier_weights": {
+      "0": 10,
+      "1": 30,
+      "2": 40,
+      "3": 20
+    }
+  },
+  "color_loci": {
+    "b": {
+      "link_group": "body",
+      "pool": {
+        "weights": {
+          "COMMON": 65,
+          "UNCOMMON": 20,
+          "RARE": 10,
+          "VERY_RARE": 5
+        },
+        "entries": {
+          "COMMON": [
+            "amethyst",
+            "mystic",
+            "stormcloud",
+            "torrent",
+            "navy",
+            "sapphire",
+            "smoke",
+            "noct",
+            "umbra",
+            "chasm",
+            "loche",
+            "jet",
+            "coal",
+            "springstorm",
+            "stormsurge",
+            "gunmetal"
+          ],
+          "UNCOMMON": [
+            "mulberry",
+            "garnet",
+            "burgundy",
+            "chocolate",
+            "malachite",
+            "verdant",
+            "stormfront"
+          ],
+          "RARE": [
+            "vermillion",
+            "brass",
+            "glace",
+            "soulfire",
+            "sterling",
+            "dawn",
+            "pyrite"
+          ],
+          "VERY_RARE": [
+            "leucistic_warm",
+            "dawnbreaker"
+          ]
+        }
+      }
+    },
+    "r": {
+      "link_group": "accent",
+      "pool": {
+        "weights": {
+          "COMMON": 65,
+          "UNCOMMON": 20,
+          "RARE": 10,
+          "VERY_RARE": 5
+        },
+        "entries": {
+          "COMMON": [
+            "amethyst",
+            "mystic",
+            "stormcloud",
+            "torrent",
+            "navy",
+            "sapphire",
+            "smoke",
+            "noct",
+            "umbra",
+            "chasm",
+            "loche",
+            "jet",
+            "coal",
+            "springstorm",
+            "stormsurge",
+            "gunmetal"
+          ],
+          "UNCOMMON": [
+            "mulberry",
+            "garnet",
+            "burgundy",
+            "chocolate",
+            "malachite",
+            "verdant",
+            "stormfront"
+          ],
+          "RARE": [
+            "vermillion",
+            "brass",
+            "glace",
+            "soulfire",
+            "sterling",
+            "dawn",
+            "pyrite"
+          ],
+          "VERY_RARE": [
+            "leucistic_warm",
+            "dawnbreaker"
+          ]
+        }
+      }
+    },
+    "y": {
+      "pool": {
+        "weights": {
+          "COMMON": 79,
+          "UNCOMMON": 14,
+          "RARE": 5,
+          "VERY_RARE": 2
+        },
+        "entries": {
+          "COMMON": [
+            "argent",
+            "crystal",
+            "sterling",
+            "quartz",
+            "white_amethyst",
+            "white_lavender"
+          ],
+          "UNCOMMON": [
+            "amethyst",
+            "mystic",
+            "stormcloud",
+            "torrent",
+            "navy",
+            "sapphire",
+            "smoke",
+            "noct",
+            "umbra",
+            "chasm",
+            "loche",
+            "jet",
+            "coal",
+            "springstorm",
+            "stormsurge",
+            "gunmetal"
+
+          ],
+          "RARE": [
+            "vermillion",
+            "brass",
+            "glace",
+            "soulfire",
+            "sterling",
+            "dawn",
+            "pyrite",
+            "mulberry",
+            "garnet",
+            "burgundy",
+            "chocolate",
+            "malachite",
+            "verdant",
+            "stormfront"
+          ],
+          "VERY_RARE": [
+            "leucistic_warm",
+            "dawnbreaker"
+          ]
+        }
+      }
+    },
+    "n": {
+      "link_group": "gradient",
+      "pool": {
+        "weights": {
+          "COMMON": 65,
+          "UNCOMMON": 20,
+          "RARE": 10,
+          "VERY_RARE": 5
+        },
+        "entries": {
+          "COMMON": [
+            "amethyst",
+            "mystic",
+            "stormcloud",
+            "torrent",
+            "navy",
+            "sapphire",
+            "smoke",
+            "noct",
+            "umbra",
+            "chasm",
+            "loche",
+            "jet",
+            "coal",
+            "springstorm",
+            "stormsurge",
+            "gunmetal"
+          ],
+          "UNCOMMON": [
+            "mulberry",
+            "garnet",
+            "burgundy",
+            "chocolate",
+            "malachite",
+            "verdant",
+            "stormfront"
+          ],
+          "RARE": [
+            "vermillion",
+            "brass",
+            "glace",
+            "soulfire",
+            "sterling",
+            "dawn",
+            "pyrite"
+          ],
+          "VERY_RARE": [
+            "leucistic_warm",
+            "dawnbreaker"
+          ]
+        }
+      }
+    },
+    "e": {
+      "pool": {
+        "weights": {
+          "COMMON": 65,
+          "UNCOMMON": 20,
+          "RARE": 10,
+          "VERY_RARE": 5
+        },
+        "entries": {
+          "COMMON": [
+            "e_brass",
+            "e_cloudset",
+            "e_ember",
+            "e_flame",
+            "e_goldenrod",
+            "e_sulphur",
+            "e_mocha"
+          ],
+          "UNCOMMON": [
+            "e_azure",
+            "e_dusk",
+            "e_deep_dusk",
+            "e_stormlight",
+            "e_sunrise",
+            "e_sunset",
+            "e_voltage"
+          ],
+          "RARE": [],
+          "VERY_RARE": []
+        }
+      }
+    },
+    "g": {
+      "link_group": "body",
+      "pool": {
+        "weights": {
+          "COMMON": 79,
+          "UNCOMMON": 14,
+          "RARE": 5,
+          "VERY_RARE": 2
+        },
+        "entries": {
+          "COMMON": [],
+          "UNCOMMON": [],
+          "RARE": [],
+          "VERY_RARE": []
+        }
+      }
+    },
+    "j": {
+      "link_group": "pattern",
+      "pool": {
+        "weights": {
+          "COMMON": 75,
+          "UNCOMMON": 14,
+          "RARE": 7,
+          "VERY_RARE": 4
+        },
+        "entries": {
+          "COMMON": [
+            "amethyst",
+            "mystic",
+            "stormcloud",
+            "torrent",
+            "navy",
+            "sapphire",
+            "smoke",
+            "noct",
+            "umbra",
+            "chasm",
+            "loche",
+            "jet",
+            "coal",
+            "sea_green",
+            "springstorm",
+            "stormsurge",
+            "gunmetal",
+            "azure",
+            "stormfront",
+            "volt",
+            "soulfire"
+          ],
+          "UNCOMMON": [
+            "pumpkin",
+            "sunbeam",
+            "sunrise",
+            "sea_green",
+            "azure",
+            "volt",
+            "malachite",
+            "verdant",
+            "dawn"
+          ],
+          "RARE": [
+            "sterling",
+            "pyrite",
+            "dawnbreaker"
+          ],
+          "VERY_RARE": [
+            "leucistic_warm"
+          ]
+        }
+      }
+    },
+    "a": {
+      "link_group": "pattern",
+      "pool": {
+        "weights": {
+          "COMMON": 75,
+          "UNCOMMON": 14,
+          "RARE": 7,
+          "VERY_RARE": 4
+        },
+        "entries": {
+          "COMMON": [
+            "amethyst",
+            "mystic",
+            "stormcloud",
+            "torrent",
+            "navy",
+            "sapphire",
+            "smoke",
+            "noct",
+            "umbra",
+            "chasm",
+            "loche",
+            "jet",
+            "coal",
+            "sea_green",
+            "springstorm",
+            "stormsurge",
+            "gunmetal",
+            "azure",
+            "stormfront",
+            "volt",
+            "soulfire"
+          ],
+          "UNCOMMON": [
+            "pumpkin",
+            "sunbeam",
+            "sunrise",
+            "sea_green",
+            "azure",
+            "volt",
+            "malachite",
+            "verdant",
+            "dawn"
+          ],
+          "RARE": [
+            "sterling",
+            "pyrite",
+            "dawnbreaker"
+          ],
+          "VERY_RARE": [
+            "leucistic_warm"
+          ]
+        }
+      }
+    },
+    "i": {
+      "link_group": "gradient",
+      "pool": {
+        "weights": {
+          "COMMON": 79,
+          "UNCOMMON": 14,
+          "RARE": 5,
+          "VERY_RARE": 2
+        },
+        "entries": {
+          "COMMON": [],
+          "UNCOMMON": [],
+          "RARE": [],
+          "VERY_RARE": []
+        }
+      }
+    },
+    "z": {
+      "link_group": "pattern",
+      "pool": {
+        "weights": {
+          "COMMON": 75,
+          "UNCOMMON": 14,
+          "RARE": 7,
+          "VERY_RARE": 4
+        },
+        "entries": {
+          "COMMON": [
+            "amethyst",
+            "mystic",
+            "stormcloud",
+            "torrent",
+            "navy",
+            "sapphire",
+            "smoke",
+            "noct",
+            "umbra",
+            "chasm",
+            "loche",
+            "jet",
+            "coal",
+            "sea_green",
+            "springstorm",
+            "stormsurge",
+            "gunmetal",
+            "azure",
+            "stormfront",
+            "volt",
+            "soulfire"
+          ],
+          "UNCOMMON": [
+            "pumpkin",
+            "sunbeam",
+            "sunrise",
+            "sea_green",
+            "azure",
+            "volt",
+            "malachite",
+            "verdant",
+            "dawn"
+          ],
+          "RARE": [
+            "sterling",
+            "pyrite",
+            "dawnbreaker"
+          ],
+          "VERY_RARE": [
+            "leucistic_warm"
+          ]
+        }
+      }
+    },
+    "v": {
+      "pool": {
+        "link_group": "gradient",
+        "weights": {
+          "COMMON": 65,
+          "UNCOMMON": 20,
+          "RARE": 10,
+          "VERY_RARE": 5
+        },
+        "entries": {
+          "COMMON": [
+            "amethyst",
+            "mystic",
+            "stormcloud",
+            "torrent",
+            "navy",
+            "sapphire",
+            "smoke",
+            "noct",
+            "umbra",
+            "chasm",
+            "loche",
+            "jet",
+            "coal",
+            "springstorm",
+            "stormsurge",
+            "gunmetal"
+          ],
+          "UNCOMMON": [
+            "mulberry",
+            "garnet",
+            "burgundy",
+            "chocolate",
+            "malachite",
+            "verdant",
+            "stormfront"
+          ],
+          "RARE": [
+            "vermillion",
+            "brass",
+            "glace",
+            "soulfire",
+            "sterling",
+            "sunrise",
+            "pyrite"
+          ],
+          "VERY_RARE": [
+            "leucistic_warm",
+            "dawnbreaker"
+          ]
+        }
+      }
+    },
+    "c": {
+      "pool": {
+        "weights": {
+          "COMMON": 79,
+          "UNCOMMON": 14,
+          "RARE": 5,
+          "VERY_RARE": 2
+        },
+        "entries": {
+          "COMMON": [
+           "s_black",
+            "s_dark_gray",
+            "s_dull_purple",
+            "s_stormy"
+          ],
+          "UNCOMMON": [
+            "s_thunder"
+          ],
+          "RARE": [
+            "s_silver"
+          ],
+          "VERY_RARE": []
+        }
+      }
+    }
+  },
+  "structure_loci": {
+    "d": {
+      "expression_count": 2,
+      "pool": {
+        "weights": {
+          "COMMON": 79,
+          "UNCOMMON": 14,
+          "RARE": 5,
+          "VERY_RARE": 2
+        },
+        "entries": {
+          "COMMON": []
+        }
+      }
+    },
+    "u": {
+      "expression_count": 2,
+      "pool": {
+        "weights": {
+          "COMMON": 40,
+          "UNCOMMON": 30,
+          "RARE": 20,
+          "VERY_RARE": 10
+        },
+        "entries": {
+          "COMMON": [
+            "underbelly_simple"
+          ]
+        }
+      }
+    },
+    "p": {
+      "expression_count": 2,
+      "pool": {
+        "weights": {
+          "COMMON": 50,
+          "UNCOMMON": 20,
+          "RARE": 20,
+          "VERY_RARE": 10
+        },
+        "entries": {
+          "COMMON": [
+            "body_layered_side_stripe",
+            "body_ridged_stripes",
+            "body_side_streak",
+            "body_striations"
+          ],
+          "UNCOMMON": [
+            "body_lightning"
+          ]
+        }
+      }
+    },
+    "w": {
+      "expression_count": 2,
+      "multi_channel_count": 2,
+      "pool": {
+        "weights": {
+          "COMMON": 40,
+          "UNCOMMON": 30,
+          "RARE": 20,
+          "VERY_RARE": 10
+        },
+        "entries": {
+          "COMMON": [
+            "w_sparkcap",
+            "w_stormstruck",
+            "w_voltage",
+            "w_spots_medium"
+          ],
+          "UNCOMMON": [
+            "w_cyclonic",
+            "w_lichtenberg",
+            "w_teardrop_ripple"
+          ]
+        }
+      }
+    },
+    "f": {
+      "expression_count": 2,
+      "pool": {
+        "weights": {
+          "COMMON": 50,
+          "UNCOMMON": 20,
+          "RARE": 20,
+          "VERY_RARE": 10
+        },
+        "entries": {
+          "COMMON": [
+            "head_crown_concave",
+            "head_crown_cone",
+            "head_side_stripe",
+            "head_snout_fade"
+          ],
+          "UNCOMMON": [
+            "head_lightning"
+          ]
+        }
+      }
+    },
+    "l": {
+      "expression_count": 2,
+      "pool": {
+        "weights": {
+          "COMMON": 40,
+          "UNCOMMON": 30,
+          "RARE": 20,
+          "VERY_RARE": 10
+        },
+        "entries": {
+          "COMMON": []
+        }
+      }
+    },
+    "s": {
+      "expression_count": 1,
+      "multi_channel_count": 2,
+      "pool": {
+        "weights": {
+          "COMMON": 40,
+          "UNCOMMON": 30,
+          "RARE": 20,
+          "VERY_RARE": 10
+        },
+        "entries": {
+          "COMMON": [
+            "eyes"
+          ]
+        }
+      }
+    },
+    "h": {
+      "expression_count": 2,
+      "pool": {
+        "weights": {
+          "COMMON": 40,
+          "UNCOMMON": 30,
+          "RARE": 20,
+          "VERY_RARE": 10
+        },
+        "entries": {
+          "COMMON": [
+            "blank"
+          ],
+          "UNCOMMON": [
+            "gradient_head_neck",
+            "gradient_tail_under"
+          ]
+        }
+      }
+    },
+    "k": {
+      "expression_count": 1,
+      "pool": {
+        "weights": {
+          "COMMON": 40,
+          "UNCOMMON": 30,
+          "RARE": 20,
+          "VERY_RARE": 10
+        },
+        "entries": {
+          "COMMON": [
+            "wg_fade_simple",
+            "wg_membraned"
+          ]
+        }
+      }
+    },
+    "q": {
+      "expression_count": 2,
+      "pool": {
+        "weights": {
+          "COMMON": 40,
+          "UNCOMMON": 30,
+          "RARE": 20,
+          "VERY_RARE": 10
+        },
+        "entries": {
+          "COMMON": ["spines_basic"]
+        }
+      }
+    }
+  },
+  "linkage": {
+    "rules": {
+      "body": {
+        "mode_weights": {
+          "SAME": 50,
+          "SIMILAR": 35,
+          "NONE": 15
+        },
+        "tier_weights": {
+          "0": 60,
+          "1": 30,
+          "2": 10
+        }
+      },
+      "gradient": {
+        "mode_weights": {
+          "SAME": 50,
+          "SIMILAR": 35,
+          "NONE": 15
+        },
+        "tier_weights": {
+          "0": 60,
+          "1": 30,
+          "2": 10
+        }
+      },
+      "pattern": {
+        "mode_weights": {
+          "SAME": 50,
+          "SIMILAR": 35,
+          "NONE": 15
+        },
+        "tier_weights": {
+          "0": 60,
+          "1": 30,
+          "2": 10
+        }
+      }
+    }
+  },
+  "palette_taxonomy": {
+    "amethyst": {
+      "primary": "purple",
+      "sat": -1,
+      "temp": 0,
+      "light": -2
+    },
+    "stormcloud": {
+      "primary": "blue",
+      "sat": -3,
+      "temp": 0,
+      "light": -3
+    },
+    "mystic": {
+      "primary": "purple",
+      "sat": -1,
+      "temp": -3,
+      "light": -2
+    },
+    "argent": {
+      "primary": "neutral",
+      "sat": -5,
+      "temp": 0,
+      "light": 4
+    },
+    "brass": {
+      "primary": "orange",
+      "sat": -2,
+      "temp": -1,
+      "light": -2
+    },
+    "burgundy": {
+      "primary": "red",
+      "sat": -1,
+      "temp": -2,
+      "light": -2
+    },
+    "chasm": {
+      "primary": "blue",
+      "sat": 3,
+      "temp": 3,
+      "light": -4
+    },
+    "chocolate": {
+      "primary": "red",
+      "sat": -2,
+      "temp": 1,
+      "light": -2
+    },
+    "coal": {
+      "primary": "neutral",
+      "sat": -5,
+      "temp": 0,
+      "light": -4
+    },
+    "crystal": {
+      "primary": "blue",
+      "sat": -4,
+      "temp": -2,
+      "light": 4
+    },
+    "garnet": {
+      "primary": "red",
+      "sat": -1,
+      "temp": -1,
+      "light": -1
+    },
+    "glace": {
+      "primary": "blue",
+      "sat": 4,
+      "temp": 2,
+      "light": 3
+    },
+    "jet": {
+      "primary": "neutral",
+      "sat": -5,
+      "temp": -1,
+      "light": -5
+    },
+    "loche": {
+      "primary": "blue",
+      "sat": -4,
+      "temp": 3,
+      "light": -5
+    },
+    "mulberry": {
+      "primary": "purple",
+      "sat": 0,
+      "temp": 4,
+      "light": 0
+    },
+    "navy": {
+      "primary": "blue",
+      "sat":-1,
+      "temp": 1,
+      "light": -3
+    },
+    "noct": {
+      "primary": "purple",
+      "sat":-3,
+      "temp": 1,
+      "light": -4
+    },
+    "pumpkin": {
+      "primary": "orange",
+      "sat":-2,
+      "temp": 0,
+      "light": 3
+    },
+    "quartz": {
+      "primary": "neutral",
+      "sat":-4,
+      "temp": 1,
+      "light": 4
+    },
+    "sapphire": {
+      "primary": "blue",
+      "sat":0,
+      "temp": 1,
+      "light": 0
+    },
+    "sea_green": {
+      "primary": "blue",
+      "sat":3,
+      "temp": 5,
+      "light": 3
+    },
+    "smoke": {
+      "primary": "blue",
+      "sat":-5,
+      "temp": -2,
+      "light": -3
+    },
+    "soulfire": {
+      "primary": "blue",
+      "sat":5,
+      "temp": 3,
+      "light": 4
+    },
+    "sterling": {
+      "primary": "neutral",
+      "sat":-5,
+      "temp": 1,
+      "light": 3
+    },
+    "sunbeam": {
+      "primary": "yellow",
+      "sat":-1,
+      "temp": 1,
+      "light": 3
+    },
+    "sunrise": {
+      "primary": "purple",
+      "sat":-1,
+      "temp": 5,
+      "light": 4
+    },
+    "torrent": {
+      "primary": "blue",
+      "sat":-1,
+      "temp": -2,
+      "light": -3
+    },
+    "umbra": {
+      "primary": "purple",
+      "sat":-4,
+      "temp": -1,
+      "light": -4
+    },
+    "vermillion": {
+      "primary": "red",
+      "sat":-1,
+      "temp": 1,
+      "light": -3
+    },
+    "volt": {
+      "primary": "blue",
+      "sat": 3,
+      "temp": 1,
+      "light": 4
+    },
+    "white_amethyst": {
+      "primary": "purple",
+      "sat": -5,
+      "temp": 1,
+      "light": 4
+    },
+    "white_lavender": {
+      "primary": "purple",
+      "sat": -4,
+      "temp": -2,
+      "light": 3
+    },
+    "gunmetal": {
+      "primary": "blue",
+      "sat":-5,
+      "temp": -2,
+      "light": -1
+    },
+    "springstorm": {
+      "primary": "green",
+      "sat":4,
+      "temp": -4,
+      "light": -4
+    },
+    "stormsurge": {
+      "primary": "blue",
+      "sat":4,
+      "temp": 5,
+      "light": -4
+    },
+    "malachite": {
+      "primary": "greem",
+      "sat":4,
+      "temp": -5,
+      "light": -3
+    },
+    "verdant": {
+      "primary": "greem",
+      "sat":5,
+      "temp": -3,
+      "light": -3
+    },
+    "stormfront": {
+      "primary": "blue",
+      "sat":-4,
+      "temp": -2,
+      "light": 3
+    },
+    "dawn": {
+      "primary": "orange",
+      "sat":4,
+      "temp": 3,
+      "light": 3
+    },
+    "pyrite": {
+      "primary": "yellow",
+      "sat":4,
+      "temp": 3,
+      "light": 1
+    },
+    "dawnbreaker": {
+      "primary": "yellow",
+      "sat":5,
+      "temp": 3,
+      "light": 4
+    },
+    "leucistic_warm": {
+      "primary": "neutral",
+      "sat":-4,
+      "temp": 1,
+      "light": 5
+    }
+  }
+}
